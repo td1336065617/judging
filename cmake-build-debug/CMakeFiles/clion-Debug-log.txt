@@ -1,0 +1,1 @@
+"F:\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=F:/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S F:\毕业论文-备份文件\毕业论文\1200919207-辛牧云-龚丹\01-1200919207-辛牧云-毕业设计源程序和数据库文件\judging -B F:\毕业论文-备份文件\毕业论文\1200919207-辛牧云-龚丹\01-1200919207-辛牧云-毕业设计源程序和数据库文件\judging\cmake-build-debug

@@ -1,5 +1,7 @@
 服务器程序项目（web项目在服务器程序的web_code目录下）：**https://github.com/td1336065617/DataStructPlayground_Server**
 
+测评机项目：**https://github.com/td1336065617/judging**
+
 数据库文件：**https://github.com/td1336065617/DataStructPlayground_Server_sql**
 
 ***\*平台部署所需设备\****
